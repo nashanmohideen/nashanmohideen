@@ -1,12 +1,24 @@
-👨‍💻 Greetings! I'm Nashan, a Computer Science enthusiast driven by the thrill of tech challenges.
+# Hi, I'm Nashan
 
-🎓 My current journey involves immersing myself in the intricacies of the MERN stack (MongoDB, Express.js, React.js, Node.js), Java, JavaScript, and Python. Additionally, I'm venturing into the world of penetration testing, eager to understand and fortify digital defenses.
+I'm a frontend-focused Software Engineer with close to 2 years of hands-on industry experience, including experience as both a Software Engineering Intern and an Associate Software Engineer.
 
-💻 Whether it's architecting dynamic web applications using MERN's powerful components or navigating through complex algorithms with Java, I relish every opportunity to expand my skill set and tackle new horizons.
+I work mainly with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, and I enjoy building clean, responsive, and scalable web applications. My work has focused on reusable UI development, API integration, state management, and improving the overall quality and maintainability of frontend codebases.
 
-🔍 When I'm not immersed in code, you'll find me captivated by cybersecurity puzzles, sharpening my expertise in penetration testing techniques, and staying vigilant against digital threats.
+I have experience working in agile teams and collaborating with designers, backend developers, and QA engineers to deliver production-ready features and user-focused solutions.
 
-🌟 I'm passionate about collaborative innovation and believe in the power of technology to drive positive change. Let's connect on GitHub and explore how we can leverage our skills to create impactful solutions together!
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+**State & Data:** Redux, REST APIs, SSR, CSR  
+**Testing & Code Quality:** Jest, ESLint, SonarQube  
+**Tools & Platforms:** Git, Figma, Magnolia CMS  
+**Other Exposure:** Node.js, MongoDB
+
+## Current Focus
+
+I’m currently focused on growing into a stronger software engineer with deep frontend expertise while continuing to expand into full-stack development and broader product engineering responsibilities.
+
+## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nashanmohideen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nashan-unais/)

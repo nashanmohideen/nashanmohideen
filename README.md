@@ -1,24 +1,28 @@
 # Hi, I'm Nashan
 
-I'm a frontend-focused Software Engineer with close to 2 years of hands-on industry experience, including experience as both a Software Engineering Intern and an Associate Software Engineer.
+Frontend-focused Software Engineer with close to 2 years of industry experience building responsive and maintainable web applications with React, Next.js, TypeScript, and Tailwind CSS.
 
-I work mainly with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, and I enjoy building clean, responsive, and scalable web applications. My work has focused on reusable UI development, API integration, state management, and improving the overall quality and maintainability of frontend codebases.
+I’ve worked on production frontend features, reusable component systems, API-driven interfaces, and complex UI state in agile teams with designers, backend engineers, and QA.
 
-I have experience working in agile teams and collaborating with designers, backend developers, and QA engineers to deliver production-ready features and user-focused solutions.
+## What I focus on
+- React and Next.js frontend development
+- Reusable component architecture
+- API integration and dynamic data-driven UI
+- Clean, maintainable TypeScript code
+- Responsive and user-focused interfaces
+
+## Featured work
+- **[Project Name](link)** – short one-line description of what it does and what you built
+- **[Project Name](link)** – short one-line description of what you built or improved
+- **[Portfolio Website](link)** – personal site built with Next.js, Tailwind CSS, and Framer Motion
 
 ## Tech Stack
+React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, REST APIs, Jest, ESLint, SonarQube, Git, Figma, Magnolia CMS
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
-**State & Data:** Redux, REST APIs, SSR, CSR  
-**Testing & Code Quality:** Jest, ESLint, SonarQube  
-**Tools & Platforms:** Git, Figma, Magnolia CMS  
-**Other Exposure:** Node.js, MongoDB
+## Current goal
+Growing into a stronger product-focused software engineer with deep frontend expertise and broader full-stack capability.
 
-## Current Focus
-
-I’m currently focused on growing into a stronger software engineer with deep frontend expertise while continuing to expand into full-stack development and broader product engineering responsibilities.
-
-## Connect with me
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nashanmohideen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nashan-unais/)

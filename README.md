@@ -11,11 +11,6 @@ I’ve worked on production frontend features, reusable component systems, API-d
 - Clean, maintainable TypeScript code
 - Responsive and user-focused interfaces
 
-## Featured work
-- **[Project Name](link)** – short one-line description of what it does and what you built
-- **[Project Name](link)** – short one-line description of what you built or improved
-- **[Portfolio Website](link)** – personal site built with Next.js, Tailwind CSS, and Framer Motion
-
 ## Tech Stack
 React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, REST APIs, Jest, ESLint, SonarQube, Git, Figma, Magnolia CMS
 
